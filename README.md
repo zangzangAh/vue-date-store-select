@@ -28,7 +28,8 @@ npm test
 
 ## 截图
 
-- ![预览1]( vue-date-store-select.png)
+- ![预览1]( vue-date-store-select-1.png)
+- ![预览2]( vue-date-store-select-2.png)
 
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
